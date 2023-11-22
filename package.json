@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "prisma": "^5.6.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.6.0"
+  },
+  "name": "prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian-Bool-React-1/node-prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florian-Bool-React-1/node-prisma/issues"
+  },
+  "homepage": "https://github.com/Florian-Bool-React-1/node-prisma#readme",
+  "description": ""
+}
